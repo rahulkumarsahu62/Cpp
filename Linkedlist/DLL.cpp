@@ -7,6 +7,7 @@ class Node {
     int data;
     Node* next;
     Node* back;
+    
 
     public:
     Node(int data1, Node* next1, Node* back1){
